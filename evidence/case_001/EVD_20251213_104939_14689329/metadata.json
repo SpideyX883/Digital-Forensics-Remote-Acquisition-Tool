@@ -1,0 +1,18 @@
+{
+  "evidence_id": "EVD_20251213_104939_14689329",
+  "case_id": "001",
+  "evidence_type": "file_transfer",
+  "original_filename": "document_20251213_104939.txt",
+  "original_size": 1024,
+  "original_hash": "b4b6f20108f5880223dde0136eab05f65d35b0b8cb0fd69f1e96acdc2fb77105",
+  "agent_id": "MyAgent_34887_104809_da0622f1",
+  "agent_os": "Linux 6.17.10+kali-amd64 x86_64",
+  "acquisition_time": "2025-12-13T10:49:39.916041",
+  "acquisition_tool": "Forensic Acquisition Agent",
+  "forensic_standards": {
+    "hash_before_compression": true,
+    "separate_hash_storage": true,
+    "chain_of_custody": true,
+    "integrity_verification": true
+  }
+}
