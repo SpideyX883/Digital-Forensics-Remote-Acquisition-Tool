@@ -1,7 +1,7 @@
-# DF_PROJECT_V3 — Digital Forensics Acquisition System (Controller + Agent)
+# ForensiCore — Digital Forensics Acquisition System (Controller + Agent)
 
 ## Overview
-DF_PROJECT_V3 is a **Controller + Agent** based digital forensic acquisition system.
+ForensiCore is a **Controller + Agent** based digital forensic acquisition system.
 
 - **Controller (Flask server)**  
   Provides a web UI + REST APIs to:
@@ -20,7 +20,7 @@ DF_PROJECT_V3 is a **Controller + Agent** based digital forensic acquisition sys
 
 ## Project Structure
 ```
-DF_PROJECT_V3/
+ForensiCore/
 ├─ controller/
 ├─ agent/
 ├─ config.py
